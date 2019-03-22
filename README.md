@@ -32,7 +32,7 @@ H=h1+h2 : overal thickness
 <br />Rd1 & Rd2: retardation factors
 <br /> c1 & c2 : concentration in each layer
   
-Implemenation of boundary condition (contunuous concentration and concentration mass flux) is done through the method explained in Ref. [2].
+Implementation of the interface boundary condition (contunuous concentration and concentration mass flux) is done through the method explained in Ref. [2].
 
 Reference 2: Hickson et al. (2011)
 <br /> Hickson, R. I., Barry, S. I., Mercer, G. N., & Sidhu, H. S. (2011). Finite difference schemes for multilayer diffusion. Mathematical and Computer Modelling, 54(1-2), 210-220.
