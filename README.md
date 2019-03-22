@@ -8,7 +8,8 @@
 <br />reference: Li, Y. C., & Cleall, P. J. (2010).
 <br />Analytical solutions for contaminant diffusion in double-layered porous media.
 <br />Journal of Geotechnical and Geoenvironmental Engineering (ASCE)
-<br />Volume 136, No. 11, pages 1542-1554.
+<br />Volume 136, No. 11, pages 1542-1554.<br />
+https://ascelibrary.org/doi/abs/10.1061/(ASCE)GT.1943-5606.0000365
 
 <br />diffusion equation in each layare:
 <br />(1/Rd1)* dc_1/dt = Ds1 * d^2c_1/dz^2,    0<z<h1
